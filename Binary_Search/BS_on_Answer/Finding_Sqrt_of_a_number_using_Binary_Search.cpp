@@ -7,7 +7,7 @@
 // As soon as the square of the number becomes greater than n, stop the loop because no bigger number can be the answer.
 // // At the end, the value stored in ans will be the integer square root of n.
 // Time Complexity: O(N), we check for every number from 1 to N.
-// Space Complexity: O(1), since the algorithm does not use any additional space or data structures.
+// Space Complexity: O(1), since the algorithm does not use any additional space or data structures..
  int floorSqrt(int n) {
         // Variable to store answer
         int ans = 0;
